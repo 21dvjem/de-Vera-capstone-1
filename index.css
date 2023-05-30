@@ -1,0 +1,306 @@
+a {
+	font-family: 'Sanchez', serif;
+	color: #4b4443;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+
+
+#navbar {
+	 font-family: 'Sanchez', serif;
+	 background-color: #cda92d; 
+	 height: 65px;
+
+}
+
+#navbar-toggler {
+	background-color: #cda92d ;
+}
+
+#navbarSupportedContent {
+	justify-content: center;
+	align-items: center;
+}
+
+.navbar-collapse {
+	background-color: #cda92d; 
+	width: 100%;
+}
+
+
+
+#toggle {
+	background-color: #4b4443;
+}
+
+
+
+* {
+	font-family: 'Sanchez', serif;
+}
+
+
+h1 {
+	font-family: 'Petit Formal Script', serif;
+	font-weight: bold;
+	color: #a43c19;
+	align-items: left;
+	justify-content: ;
+	padding-top: 390px;
+	width:65%;
+  	margin-left:10%;
+  	text-align: left;
+  	float: left;
+	
+}
+
+
+
+
+.lolli {
+	display: block;
+    margin-left: auto;
+    padding-top: 310px;
+    width:20%;
+  	margin-right:5%;
+ 	 text-align:right;
+  	float: left;
+}
+
+
+
+
+h2 {
+	font-family: 'Petit Formal Script', serif;
+	font-weight: bolder;
+	color: #a43c19;
+	margin-top: 30px;
+}
+
+p {
+	font-size: 20px;
+	color: #af7b31;
+}
+
+
+.me {
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	margin-top: 130px;
+}
+
+
+
+
+#home {
+	background-image: url('https://wallpapercave.com/wp/wp4027183.jpg');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+
+#aboutme{
+	background-image: url('https://e0.pxfuel.com/wallpapers/569/181/desktop-wallpaper-wes-anderson-lowe-s-moonrise-kingdom.jpg');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+
+#projects{
+	background-image: url('https://dailyarchitecturenews.com/wp-content/uploads/2020/10/DAN_Accidentally-Wes-Anderson-16.gif');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+
+
+#contact{
+	background-image: url('https://images.adsttc.com/media/images/5995/e47b/b22e/3862/a800/0001/slideshow/Milonade.jpg');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+
+
+
+
+
+#gallery {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border-radius: 6px;
+	padding: 2vh 0;
+	
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+.tools {
+	color: white;
+	border: 5px olid #f2f2f2;
+	width: 75%;
+	margin: 1px;
+	padding: 1px;
+	justify-content: center;
+	align-items: center;
+}
+
+h3 {
+	font-family: 'Sanchez', serif;
+	text-align: center;
+	font-weight: bold;
+	color: #5c5611;
+
+}
+
+li {
+	text-align: center;
+	color: #8c6f15;
+	font-weight: bold;
+}
+
+.container3 {
+	display: flex;
+	text-align: center;
+	
+}
+
+h4 {
+
+	font-family: 'Petit Formal Script', serif;
+	font-weight: bolder;
+	color: white;
+	text-align: center;
+	margin-top: 20px;	
+	display: inline-flex;
+}
+
+
+
+.card-img-top {
+	width: 20%;
+	height: 60px;
+	justify-content: center;
+	align-items: center;
+	border: 30px;
+
+
+}
+
+
+.e-com {
+	height: 250px;
+	width: 400px;
+	margin-right: 150px;
+	margin-left: 75px;
+	margin-top: 350px ;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.adalove {
+	height: 250px;
+	width: 400px;
+	margin-left: 150px;
+	margin-right: 75px;
+	margin-top: 350px ;
+	justify-content: center;
+	align-items: center;
+}
+
+.session{
+	height: 250px;
+	width: 400px;
+	margin-left: 150px;
+	margin-right: 75px;
+	margin-top: 350px ;
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+
+
+
+
+
+h6 {
+
+	font-family: 'Petit Formal Script', serif;
+	padding-top: 90px;
+	padding-bottom: 50px;
+	font-size: 25px;
+	font-weight: bolder;
+	font-size: 40px;
+
+}
+
+#info {
+	background-color: #94acc2;
+	border-radius: 20px;
+}
+
+.bi {
+	text-align: center;
+	font-family: 'Sanchez', serif;
+	color: #000;
+}
+
+label {
+	font-family: 'Sanchez', serif;
+	font-size: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+input {
+	height: 40px;
+	border: none;
+	size: 70;
+	margin-bottom: 30px rounded;
+	padding-inline: 500px;
+}
+
+
+form {
+	display: block;
+
+}
+
+#button {
+	background-color: #94acc2 ;
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
